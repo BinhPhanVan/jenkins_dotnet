@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJ5ewHEvSgwzhNGSGpHCzbIULivPBYeBTEmVTpvia1xn695VYo3xsoO51Lq1ynis5iv3t8lZ4hB3Pq4hf+5I1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Binh Phan\\Desktop\\dotnet_repo\\jenkins_dotnet\\Demo.API\\Demo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Binh Phan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Binh Phan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Binh Phan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Binh Phan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Binh Phan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Binh Phan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
